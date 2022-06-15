@@ -1,19 +1,23 @@
-# Power-BI Dashboard
+# About Dashboard
+This is Retail Analysis Dashboard in Australia:
 
- The data and reports in this file were created by Mynda Treacy from My Online Training Hub.
+-The dashboard gives users up to date information on the sales performance of each store, highlighting the sales volume, quantity and profit based on different dimensions and filters, to help with decision making.
+- Summary of the overall picture of the business and how it performing
+- Region & chain 
 
-Individual users are permitted to recreate the dashboard for personal practice only.
+Steps : 
+1. Understanding business
+2. Validating data type 
+3. Using Power Query & DAX to add columns for Analysis purpose 
+4. Create a relationship between tables in the model
+5. Change Formate of Calculated columns
 
-Recreating the dashboard for training or demonstration to others is not permitted, unless written consent is granted by Mynda Treacy.
 
-  
 
-The workbook and any visualization pages must be accompanied by the following copyright notice: My Online Training Hub ©.
 
-  
+# Data Source
 
-This sheet must remain in any file that uses this data and or these Power BI techniques.
-
-Any uses of this workbook and/or data must include the above attribution.
+The data and reports in this file were created by Mynda Treacy from My Online Training Hub.
+Recreate the dashboard for personal practice only.
 
  
